@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#page{
+    width: 100%;
+    height: 100vh;
+}
+#head{
+    width: 100%;
+    height: 15%;
+    padding-top: 3%;
+}
+#backhead{
+    width: 90%;
+    height: 8%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.buttoms{
+    float: left;
+    width: 15%;
+    height: 50%;
+    border-bottom: 0px;
+    border:none!important;
+    border-radius:4px;
+    display:inline-block;
+    cursor:pointer;
+    font-family:Verdana;
+    font-weight:bold;
+    font-size:13px;
+    padding:6px 10px;
+    text-decoration:none;
+}
+.azul{
+    border-color:#00aaff;
+    background:linear-gradient(to bottom, #ffffff 5%, #00aaff  100%);
+    box-shadow:inset 0px 1px 0px 0px #00aaff;
+    color:#333;
+    text-shadow:0px 1px 0px #ffffff;
+}
+.publicacao{
+    width: 90%;
+    height: 100vh;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 0px 0px 100px rgba(0,0,0,0.15);
+}
+#post{
+    width: 100%;
+    height: 10%;
+}
+#post_esq{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+
+.post{
+    color: #00aaff;
+    margin-top: 2%;
+}
+#post_dir{
+    width: 50%;
+    height: 100%;
+    float: left;
+
+}
+#divBusca{
+    margin-top: 2%;
+    margin-right: 1%;
+    background-color:#00aaff;
+    border:solid 1px;
+    border-radius:15px;
+    width:250px;
+    border-color:#00aaff;
+    background:linear-gradient(to bottom, #ffffff 20%, #00aaff  100%);
+    box-shadow:inset 0px 1px 0px 0px #00aaff;
+    color:#333;
+    text-shadow:0px 1px 0px #ffffff;
+}
+
+#txtBusca{
+    float:left;
+    background-color:transparent;
+    padding-left:5px;
+    font-style:italic;
+    font-size:18px;
+    border:none;
+    height:30px;
+    width:200px;
+}
+#btnBusca{
+    padding-top: 2%;
+    padding-bottom: 1%;
+    padding-right: 2%;
+}
+
+.conteudo{
+    width: 100%;
+    height: 100vh;
+}
+
+#conteudo{
+    width: 78%;
+    height: 100%;
+    float: left;
+}
+#anuncio{
+    width: 22%;
+    height: 100%;
+    float: left;
+}
+#titulo{
+    margin-top: 1%;
+    margin-left: 2.5%;
+    margin-bottom: 1%;
+}
+#texto{
+    margin-left: 2%;
+}
