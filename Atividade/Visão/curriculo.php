@@ -36,7 +36,7 @@
     </div>
     <div id="backhead" align="center">
         <a class="buttoms azul" href="../index.php">Página Inicial</a>
-        <a class="buttoms azul" href="curriculo.php">Curriculum</a>
+        <a class="buttoms azul" href="curriculo.php">Curriculo</a>
         <a class="buttoms azul" href="../Visão/post.php">Publicações</a>
         <a class="buttoms azul" href="../Visão/sobre.php">Sobre</a>
         <a class="buttoms azul" href="../Visão/cadastro.php">Cadastre-se</a>
@@ -64,7 +64,7 @@
                         <p><b>ENDEREÇO</b></p>
                         <p><br></p>
                         <p><br></p>
-                        <p><b>CELULAR</b></p>
+                        <p><b>TELEFONE CELULAR</b></p>
                         <p><br></p>
                         <p><b>EMAIL</b></p>
                     </div>
@@ -79,7 +79,7 @@
                         <p><br></p>
                         <P>AV. RIO BRANCO, 168 CENTRO - 75.600-000</P>
                         <p><br></p>
-                        <p> (64)9 8454-1380</p>
+                        <p> (64)9 9249-1652</p>
                         <p><br></p>
                         <p>vmartinsbcc@gmail.com</p>
                     </div>
