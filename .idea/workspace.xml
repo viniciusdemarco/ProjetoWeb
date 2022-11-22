@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97977d9e-7eb5-4468-9e97-23c3da953f47" name="Default Changelist" comment="" />
+    <list default="true" id="e37cb652-fbe2-4ead-9881-d2b3a81e00df" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,12 +13,10 @@
       <executable />
     </execution>
   </component>
-  <component name="ProjectId" id="1RNLE1FuK382tF47oCyUIxQpLG3" />
+  <component name="ProjectId" id="1RLJb8tKZlnBGpIELV5c5pKm83h" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Atividade" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -37,14 +35,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="97977d9e-7eb5-4468-9e97-23c3da953f47" name="Default Changelist" comment="" />
-      <created>1569323985214</created>
+      <changelist id="e37cb652-fbe2-4ead-9881-d2b3a81e00df" name="Default Changelist" comment="" />
+      <created>1569440511652</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1569323985214</updated>
-      <workItem from="1569323986494" duration="121000" />
-      <workItem from="1569502496134" duration="5072000" />
-      <workItem from="1570100173063" duration="10956000" />
+      <updated>1569440511652</updated>
+      <workItem from="1569440512872" duration="10489000" />
+      <workItem from="1569460352226" duration="5694000" />
+      <workItem from="1569959923768" duration="1533000" />
+      <workItem from="1569961575589" duration="3026000" />
+      <workItem from="1570104065986" duration="66000" />
+      <workItem from="1570133914492" duration="46000" />
+      <workItem from="1570638027234" duration="2681000" />
     </task>
     <servers />
   </component>
